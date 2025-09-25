@@ -1,2 +1,3 @@
-# -HR-Data--Analysis--Dashboard
-“An interactive HR Analytics Dashboard visualizes key workforce metrics — attrition rates, performance trends, demographics — to drive data‑informed HR decisions. It helps identify issues early, optimize recruitment, and boost retention. Built for clarity, insight, and strategic alignment.”
+# HR-DATA-ANALYSIS(interactive dashboard creation using MS EXCEL)
+## Project Objective
+Develop an interactive HR Analytics Dashboard using Power BI and Excel to visualize key employee metrics, enabling HR teams to make data-driven decisions that enhance retention, performance, and overall workforce management.
