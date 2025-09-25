@@ -33,6 +33,6 @@ Definition: Calculates the percentage of workdays missed due to unscheduled abse
 3. Demographic breakdowns (age, gender, etc.) provide visibility into diversity and identify potential inclusion gaps.
 4. Attendance and absenteeism trends expose problematic time periods, enabling proactive policies around wellness and scheduling.
   ## Final Conclusion:
-
-> This HR Analytics Dashboard transforms raw HR and employee data into actionable insights, enabling HR leaders to identify retention risks, optimize hiring strategies, and drive data‑backed decisions. With clear visualizations and key metrics, it strengthens organizational capability to improve workforce stability, performance, and employee satisfaction.
+  
+This HR Analytics Dashboard transforms raw HR and employee data into actionable insights, enabling HR leaders to identify retention risks, optimize hiring strategies, and drive data‑backed decisions. With clear visualizations and key metrics, it strengthens organizational capability to improve workforce stability, performance, and employee satisfaction.
 
