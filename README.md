@@ -19,11 +19,8 @@ Definition: Calculates the percentage of workdays missed due to unscheduled abse
 
 -Dashboard Interaction <a href = "https://github.com/nivedita371/-HR-Data--Analysis--Dashboard/blob/4e921a1fdececc319ad3655ed0a663dd08523287/HR%20data%20analysis.png">View Dashboard</a>
 ## Process
-Data Collection & Preparation: Gather HR data from various sources (e.g., employee records, payroll, performance reviews) and clean it using Excel to ensure accuracy and consistency.
-
-Data Import into Power BI: Load the cleaned data into Power BI, establishing relationships between tables to create a cohesive dataset.
-
-Dashboard Development: Design interactive visualizations in Power BI, utilizing features like slicers and filters to allow dynamic exploration of HR metrics.
-
-Review & Deployment: Thoroughly test the dashboard for accuracy, make necessary adjustments, and publish it to the Power BI Service for access by stakeholders.
+-Data Collection & Preparation: Gather HR data from various sources (e.g., employee records, payroll, performance reviews) and clean it using Excel to ensure accuracy and consistency.
+-Data Import into Power BI: Load the cleaned data into Power BI, establishing relationships between tables to create a cohesive dataset.
+-Dashboard Development: Design interactive visualizations in Power BI, utilizing features like slicers and filters to allow dynamic exploration of HR metrics.
+-Review & Deployment: Thoroughly test the dashboard for accuracy, make necessary adjustments, and publish it to the Power BI Service for access by stakeholders.
 
