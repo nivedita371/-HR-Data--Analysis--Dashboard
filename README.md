@@ -26,6 +26,9 @@ Definition: Calculates the percentage of workdays missed due to unscheduled abse
 -Dashboard Development: Design interactive visualizations in Power BI, utilizing features like slicers and filters to allow dynamic exploration of HR metrics.
 
 -Review & Deployment: Thoroughly test the dashboard for accuracy, make necessary adjustments, and publish it to the Power BI Service for access by stakeholders.
+## Dashboard:
+<img width="1168" height="661" alt="HR data analysis" src="https://github.com/user-attachments/assets/118cad3c-e88c-4e23-9c18-b1cfad296c5f" />
+
 ## Project Insights:
 
 1. The dashboard reveals which departments have the highest turnover, helping HR prioritize retention interventions.
